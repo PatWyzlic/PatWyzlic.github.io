@@ -2,22 +2,40 @@ nav{
     
 }
 
-
 body{
     background-color: rgb(191, 232, 241);
 }
 
 #top{
-    padding-top: 10rem;
-    padding-bottom: 10rem;
+    padding-top: 10vh;
+    padding-bottom: 2rem;
 }
 
 #about{
-    padding-left: 5rem;
-    padding-right: 5rem;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 20vh;
+    padding-bottom: 20vh;
 }
 
 #pat-image-top{
     width: 200px;
     margin: 1rem;
 }
+
+.icon{
+    width: 3rem;
+}
+
+.logo{
+    margin: 1rem;
+    width: 20rem;
+}
+
+.skills-list{
+    padding-left: 7vh;
+    padding-right: 7vh;
+    padding-top: 2vh;
+    font-size: x-large;
+}
+
