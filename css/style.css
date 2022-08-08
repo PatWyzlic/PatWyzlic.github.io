@@ -7,6 +7,17 @@ body{
     background-color: rgb(191, 232, 241);
 }
 
+#top{
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+
+#about{
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
 #pat-image-top{
-    width: 300px;
+    width: 200px;
+    margin: 1rem;
 }
