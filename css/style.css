@@ -50,3 +50,13 @@ body{
     padding-top: 20px;
     width: 40px;
 }
+
+.section-padding{
+    padding-top: 27vh;
+}
+
+#projects{
+    padding-top: 7vh;
+    padding-left: 15vh;
+    padding-right: 15vh;
+}
