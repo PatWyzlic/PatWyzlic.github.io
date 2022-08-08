@@ -1,41 +1,52 @@
-nav{
-    
-}
-
 body{
     background-color: rgb(191, 232, 241);
 }
 
 #top{
-    padding-top: 10vh;
+    padding-top: 8vh;
     padding-bottom: 2rem;
 }
 
 #about{
     padding-left: 20%;
     padding-right: 20%;
-    padding-top: 20vh;
-    padding-bottom: 20vh;
+    padding-top: 30vh;
+    padding-bottom: 5vh;
 }
+
+#socials{
+    text-align: center;
+}
+
 
 #pat-image-top{
     width: 200px;
     margin: 1rem;
 }
 
+
 .icon{
     width: 3rem;
 }
 
 .logo{
-    margin: 1rem;
+    margin: .1rem;
     width: 20rem;
 }
 
 .skills-list{
     padding-left: 7vh;
     padding-right: 7vh;
-    padding-top: 2vh;
+    padding-top: 1vh;
     font-size: x-large;
 }
 
+
+#react-django{
+    width: 500px;
+}
+
+.down-arrow{
+    padding-top: 20px;
+    width: 40px;
+}
