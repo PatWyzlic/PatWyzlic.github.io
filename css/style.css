@@ -59,4 +59,26 @@ body{
     padding-top: 7vh;
     padding-left: 15vh;
     padding-right: 15vh;
+    padding-bottom: 5vh;
+}
+
+.reach-out{
+    margin-bottom: 40vh;
+    margin-left: 15vh;
+    margin-right: 15vh;
+}
+
+form{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;    
+    background-color: white;
+}
+
+footer{
+    text-align: center;
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
